@@ -26,7 +26,7 @@
 
 - Clone this repo to your local machine using
 ```shell
-$ git clone `https://github.com/BrunoLopes/Xperiments.DesignPatterns.Bridge`
+$ git clone https://github.com/BrunoLopes/Xperiments.DesignPatterns.Bridge
 ```
 
 ### Setup
